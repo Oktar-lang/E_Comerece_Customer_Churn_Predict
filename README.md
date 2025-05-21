@@ -205,4 +205,6 @@ Setelah menggunakan ML, perusahaan jadi bisa memprediksi siapa saja customer yg 
 - Terdapat feature-feature yang kurang berpengaruh signifikan terhadap hasil prediksi Machine Learning, dengan demikian dapat ditambahkan feature-feature yang lain mungkin seperti jumlah order barang, umur, dll
 - Menambahkan parameter yang lebih banyak pada bagian Hyperparameter Tunning, kebetulan perangkat yang saat ini saya gunakan akan memakan waktu yang sangat lama untuk menambah parameter lain. jadi alangkah baiknya dapat mencoba berbagai parameter lain.
 
+# **Streamlit**
+https://appchurnpredict-euhmtmpjtuvnita8ip77hv.streamlit.app
 
